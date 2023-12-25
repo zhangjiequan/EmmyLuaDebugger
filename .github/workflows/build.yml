@@ -1,6 +1,8 @@
 name: Emmy Debugger Core
 
-on: [push]
+on:
+  push:
+  workflow_dispatch:
 
 jobs:
   build:
