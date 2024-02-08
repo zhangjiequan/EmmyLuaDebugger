@@ -1,4 +1,9 @@
 # EmmyLuaDebugger
+
+[![](https://img.shields.io/github/downloads/zhangjiequan/EmmyLuaDebugger/total?style=flat-square)](https://github.com/zhangjiequan/EmmyLuaDebugger/releases)
+[![](https://img.shields.io/github/downloads/zhangjiequan/EmmyLuaDebugger/latest/total?style=flat-square)](https://github.com/zhangjiequan/EmmyLuaDebugger/releases/latest)
+
+
 OS         | CI status
 ---------- | ----------
 MAC & Linux|[![Build Status](https://travis-ci.org/EmmyLua/EmmyLuaDebugger.svg?branch=master)](https://travis-ci.org/EmmyLua/EmmyLuaDebugger)
